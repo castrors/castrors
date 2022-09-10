@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Rodrigo!
 
-💻 &nbsp;Senior Mobile Developer at [NortonLifeLock](https://www.nortonlifelock.com/) <br>
+💻 &nbsp;Senior Mobile Developer at [BAUHAUS](https://www.bauhaus.info/) <br>
 🏡 &nbsp; Brazilian, Based in Germany 🥨🌎
 
 [![Site Badge](https://img.shields.io/badge/-MySite-white?style=flat-square&logo=Flutter&logoColor=blue&link=https://rodrigocastro.ninja)](https://rodrigocastro.ninja)
